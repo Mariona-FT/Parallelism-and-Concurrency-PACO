@@ -1,0 +1,2 @@
+# Parallelism-and-Concurrency-PACO
+PARAL·LELISME I CONCURRÈNCIA Curs 2022-23 EPSEVG
