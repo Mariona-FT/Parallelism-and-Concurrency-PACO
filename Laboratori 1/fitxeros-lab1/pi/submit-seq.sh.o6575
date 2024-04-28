@@ -1,0 +1,5 @@
+
+ USAGE: submit-seq.sh PROG size
+ PROG -> omp program name
+ size -> size of the problem
+

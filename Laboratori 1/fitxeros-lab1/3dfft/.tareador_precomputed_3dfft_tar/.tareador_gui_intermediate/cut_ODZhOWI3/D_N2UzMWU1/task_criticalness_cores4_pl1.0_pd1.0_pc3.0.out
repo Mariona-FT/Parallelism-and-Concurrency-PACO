@@ -1,0 +1,8 @@
+speedup: 3.972
+1 MAIN_TAREADOR 1 0.0
+2 start_plan_forward 2 0.62 len(0.00) dep(0.00) conc(0.61)
+3 init_complex_grid 3 0.18 len(0.10) dep(0.00) conc(0.08)
+4 ffts1_planes 4 1.71 len(0.68) dep(0.95) conc(0.08)
+5 ffts1_planes_loop_k 5 0.19 len(0.10) dep(0.01) conc(0.08)
+6 transpose_xy_planes 6 0.15 len(0.06) dep(0.01) conc(0.08)
+7 transpose_zx_planes 7 0.15 len(0.06) dep(0.01) conc(0.08)
